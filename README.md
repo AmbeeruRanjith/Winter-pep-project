@@ -1,4 +1,8 @@
 # React + Vite
+Deployed link: https://doctor-appointment-in-react.netlify.app/
+Drive link of video: 
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
